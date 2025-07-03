@@ -1,0 +1,21 @@
+.pay-header{
+    border: 1px solid darkgrey;
+    background-color: lightgray;
+    padding: 10px;
+}
+.pay-body{
+    border: 1px solid darkgrey;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+.radio-dots{
+    display:flex;
+}
+.pay-footer{
+    display: flex;
+    justify-content: flex-end;
+    border: 1px solid darkgrey;
+    background-color: lightgray;
+    padding: 10px;
+}
